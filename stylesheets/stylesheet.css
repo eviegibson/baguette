@@ -245,7 +245,10 @@ a {
   text-align: center;
   background-color: #3962AC;
   background-image: linear-gradient(120deg, #3962AC, #DE9CD8); }
+.introduction {
+    background-image: url(https://github.com/eviegibson/baguette/blob/master/stylesheets/poster%201.jpg?raw=true); }
 
+}
 .main-content {
   background-color: #fff;
 }
